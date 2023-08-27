@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/amanre/.config/xfce-wallpapers/windows.jpg"
+let background = "#0b0332"
+let foreground = "#a6a1c8"
+let cursor     = "#a6a1c8"
+
+" Colors
+let color0  = "#0b0332"
+let color1  = "#980065"
+let color2  = "#B10068"
+let color3  = "#C5006A"
+let color4  = "#0E3887"
+let color5  = "#0D4898"
+let color6  = "#0B5CAB"
+let color7  = "#a6a1c8"
+let color8  = "#74708c"
+let color9  = "#980065"
+let color10 = "#B10068"
+let color11 = "#C5006A"
+let color12 = "#0E3887"
+let color13 = "#0D4898"
+let color14 = "#0B5CAB"
+let color15 = "#a6a1c8"

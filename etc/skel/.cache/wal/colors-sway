@@ -1,0 +1,21 @@
+set $wallpaper /home/amanre/.config/xfce-wallpapers/windows.jpg
+
+set $background #0b0332
+set $foreground #a6a1c8
+
+set $color0 #0b0332
+set $color1 #980065
+set $color2 #B10068
+set $color3 #C5006A
+set $color4 #0E3887
+set $color5 #0D4898
+set $color6 #0B5CAB
+set $color7 #a6a1c8
+set $color8 #74708c
+set $color9 #980065
+set $color10 #B10068
+set $color11 #C5006A
+set $color12 #0E3887
+set $color13 #0D4898
+set $color14 #0B5CAB
+set $color15 #a6a1c8

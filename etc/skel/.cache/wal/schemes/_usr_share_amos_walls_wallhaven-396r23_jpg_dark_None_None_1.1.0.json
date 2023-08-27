@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/amos/walls/wallhaven-396r23.jpg",
+    "alpha": "80",
+    "special": {
+        "background": "#020712",
+        "foreground": "#88cbda",
+        "cursor": "#88cbda"
+    },
+    "colors": {
+        "color0": "#020712",
+        "color1": "#562F49",
+        "color2": "#1A5161",
+        "color3": "#084973",
+        "color4": "#B5515F",
+        "color5": "#1E3FA4",
+        "color6": "#095996",
+        "color7": "#88cbda",
+        "color8": "#5f8e98",
+        "color9": "#562F49",
+        "color10": "#1A5161",
+        "color11": "#084973",
+        "color12": "#B5515F",
+        "color13": "#1E3FA4",
+        "color14": "#095996",
+        "color15": "#88cbda"
+    }
+}

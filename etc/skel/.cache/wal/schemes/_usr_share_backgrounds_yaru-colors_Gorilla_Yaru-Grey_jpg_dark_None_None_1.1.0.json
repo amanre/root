@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/backgrounds/yaru-colors/Gorilla_Yaru-Grey.jpg",
+    "alpha": "80",
+    "special": {
+        "background": "#180310",
+        "foreground": "#e9c6e2",
+        "cursor": "#e9c6e2"
+    },
+    "colors": {
+        "color0": "#180310",
+        "color1": "#85807F",
+        "color2": "#BD4DA8",
+        "color3": "#7F8080",
+        "color4": "#8A8A8A",
+        "color5": "#B79CAF",
+        "color6": "#E1AEAE",
+        "color7": "#e9c6e2",
+        "color8": "#a38a9e",
+        "color9": "#85807F",
+        "color10": "#BD4DA8",
+        "color11": "#7F8080",
+        "color12": "#8A8A8A",
+        "color13": "#B79CAF",
+        "color14": "#E1AEAE",
+        "color15": "#e9c6e2"
+    }
+}

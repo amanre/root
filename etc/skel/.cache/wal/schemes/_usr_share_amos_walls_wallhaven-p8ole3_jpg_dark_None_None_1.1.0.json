@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/amos/walls/wallhaven-p8ole3.jpg",
+    "alpha": "80",
+    "special": {
+        "background": "#06020F",
+        "foreground": "#c7c5e3",
+        "cursor": "#c7c5e3"
+    },
+    "colors": {
+        "color0": "#06020F",
+        "color1": "#584BA7",
+        "color2": "#5950A5",
+        "color3": "#6557A6",
+        "color4": "#6756AF",
+        "color5": "#B458A4",
+        "color6": "#8C76C8",
+        "color7": "#c7c5e3",
+        "color8": "#8b899e",
+        "color9": "#584BA7",
+        "color10": "#5950A5",
+        "color11": "#6557A6",
+        "color12": "#6756AF",
+        "color13": "#B458A4",
+        "color14": "#8C76C8",
+        "color15": "#c7c5e3"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/amos/walls/wallhaven-yxvoox.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#090A0C",
+        "foreground": "#d2dceb",
+        "cursor": "#d2dceb"
+    },
+    "colors": {
+        "color0": "#090A0C",
+        "color1": "#906D77",
+        "color2": "#68728C",
+        "color3": "#738DA2",
+        "color4": "#9199AE",
+        "color5": "#CBB1B3",
+        "color6": "#A4B2D0",
+        "color7": "#d2dceb",
+        "color8": "#939aa4",
+        "color9": "#906D77",
+        "color10": "#68728C",
+        "color11": "#738DA2",
+        "color12": "#9199AE",
+        "color13": "#CBB1B3",
+        "color14": "#A4B2D0",
+        "color15": "#d2dceb"
+    }
+}

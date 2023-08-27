@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/amos/walls/exodia-Cyberpunk-2.jpg",
+    "alpha": "80",
+    "special": {
+        "background": "#0e0f15",
+        "foreground": "#abc1d6",
+        "cursor": "#abc1d6"
+    },
+    "colors": {
+        "color0": "#0e0f15",
+        "color1": "#3B4A87",
+        "color2": "#495293",
+        "color3": "#6747A0",
+        "color4": "#5F67A7",
+        "color5": "#AC36B9",
+        "color6": "#9264A8",
+        "color7": "#abc1d6",
+        "color8": "#778795",
+        "color9": "#3B4A87",
+        "color10": "#495293",
+        "color11": "#6747A0",
+        "color12": "#5F67A7",
+        "color13": "#AC36B9",
+        "color14": "#9264A8",
+        "color15": "#abc1d6"
+    }
+}

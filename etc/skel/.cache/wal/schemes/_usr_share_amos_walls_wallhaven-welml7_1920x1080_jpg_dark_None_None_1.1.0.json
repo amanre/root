@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/amos/walls/wallhaven-welml7_1920x1080.jpg",
+    "alpha": "80",
+    "special": {
+        "background": "#222027",
+        "foreground": "#cfe4d9",
+        "cursor": "#cfe4d9"
+    },
+    "colors": {
+        "color0": "#222027",
+        "color1": "#93B0A1",
+        "color2": "#CFA28A",
+        "color3": "#9FCBB6",
+        "color4": "#F9D491",
+        "color5": "#E4D6A2",
+        "color6": "#FCE8B0",
+        "color7": "#cfe4d9",
+        "color8": "#909f97",
+        "color9": "#93B0A1",
+        "color10": "#CFA28A",
+        "color11": "#9FCBB6",
+        "color12": "#F9D491",
+        "color13": "#E4D6A2",
+        "color14": "#FCE8B0",
+        "color15": "#cfe4d9"
+    }
+}

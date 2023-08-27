@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/amos/walls/wallhaven-p81xve.jpg",
+    "alpha": "80",
+    "special": {
+        "background": "#04020C",
+        "foreground": "#a4c7ea",
+        "cursor": "#a4c7ea"
+    },
+    "colors": {
+        "color0": "#04020C",
+        "color1": "#552BA5",
+        "color2": "#4853BF",
+        "color3": "#7038CB",
+        "color4": "#8E3FCC",
+        "color5": "#A451EC",
+        "color6": "#D46AF9",
+        "color7": "#a4c7ea",
+        "color8": "#728ba3",
+        "color9": "#552BA5",
+        "color10": "#4853BF",
+        "color11": "#7038CB",
+        "color12": "#8E3FCC",
+        "color13": "#A451EC",
+        "color14": "#D46AF9",
+        "color15": "#a4c7ea"
+    }
+}

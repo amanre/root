@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/backgrounds/yaru-colors/Fehmarn-Wallpaper.jpg",
+    "alpha": "80",
+    "special": {
+        "background": "#1c170c",
+        "foreground": "#a2c1db",
+        "cursor": "#a2c1db"
+    },
+    "colors": {
+        "color0": "#1c170c",
+        "color1": "#245599",
+        "color2": "#326DAE",
+        "color3": "#7E7F82",
+        "color4": "#5074A6",
+        "color5": "#3E81BB",
+        "color6": "#668FB4",
+        "color7": "#a2c1db",
+        "color8": "#718799",
+        "color9": "#245599",
+        "color10": "#326DAE",
+        "color11": "#7E7F82",
+        "color12": "#5074A6",
+        "color13": "#3E81BB",
+        "color14": "#668FB4",
+        "color15": "#a2c1db"
+    }
+}

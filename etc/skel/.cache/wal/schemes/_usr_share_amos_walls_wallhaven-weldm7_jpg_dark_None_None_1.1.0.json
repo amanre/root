@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/amos/walls/wallhaven-weldm7.jpg",
+    "alpha": "80",
+    "special": {
+        "background": "#1b2142",
+        "foreground": "#e6d7d9",
+        "cursor": "#e6d7d9"
+    },
+    "colors": {
+        "color0": "#1b2142",
+        "color1": "#676894",
+        "color2": "#93758E",
+        "color3": "#867492",
+        "color4": "#C77D8C",
+        "color5": "#A48BA4",
+        "color6": "#E39DA5",
+        "color7": "#e6d7d9",
+        "color8": "#a19697",
+        "color9": "#676894",
+        "color10": "#93758E",
+        "color11": "#867492",
+        "color12": "#C77D8C",
+        "color13": "#A48BA4",
+        "color14": "#E39DA5",
+        "color15": "#e6d7d9"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/amos/walls/wallhaven-rrow61.png",
+    "alpha": "80",
+    "special": {
+        "background": "#0B1428",
+        "foreground": "#e6c6e3",
+        "cursor": "#e6c6e3"
+    },
+    "colors": {
+        "color0": "#0B1428",
+        "color1": "#684DA6",
+        "color2": "#9E329F",
+        "color3": "#9D57A8",
+        "color4": "#D85898",
+        "color5": "#CE53BB",
+        "color6": "#A564CC",
+        "color7": "#e6c6e3",
+        "color8": "#a18a9e",
+        "color9": "#684DA6",
+        "color10": "#9E329F",
+        "color11": "#9D57A8",
+        "color12": "#D85898",
+        "color13": "#CE53BB",
+        "color14": "#A564CC",
+        "color15": "#e6c6e3"
+    }
+}

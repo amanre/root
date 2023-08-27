@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/amos/walls/wallhaven-vgpjel.jpg",
+    "alpha": "80",
+    "special": {
+        "background": "#15151f",
+        "foreground": "#f3e0db",
+        "cursor": "#f3e0db"
+    },
+    "colors": {
+        "color0": "#15151f",
+        "color1": "#CD7788",
+        "color2": "#579C86",
+        "color3": "#AC8BA4",
+        "color4": "#E0A6B0",
+        "color5": "#FBC5BE",
+        "color6": "#E0B8C2",
+        "color7": "#f3e0db",
+        "color8": "#aa9c99",
+        "color9": "#CD7788",
+        "color10": "#579C86",
+        "color11": "#AC8BA4",
+        "color12": "#E0A6B0",
+        "color13": "#FBC5BE",
+        "color14": "#E0B8C2",
+        "color15": "#f3e0db"
+    }
+}

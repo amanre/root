@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/amos/walls/wallhaven-m3w6pk.png",
+    "alpha": "100",
+    "special": {
+        "background": "#00111D",
+        "foreground": "#ccc7d0",
+        "cursor": "#ccc7d0"
+    },
+    "colors": {
+        "color0": "#00111D",
+        "color1": "#C27C87",
+        "color2": "#508DB4",
+        "color3": "#6D96B4",
+        "color4": "#4597C5",
+        "color5": "#589EC6",
+        "color6": "#6BADCE",
+        "color7": "#ccc7d0",
+        "color8": "#8e8b91",
+        "color9": "#C27C87",
+        "color10": "#508DB4",
+        "color11": "#6D96B4",
+        "color12": "#4597C5",
+        "color13": "#589EC6",
+        "color14": "#6BADCE",
+        "color15": "#ccc7d0"
+    }
+}
