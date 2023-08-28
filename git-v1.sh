@@ -16,8 +16,8 @@
 ##################################################################################################################
 
 # Creating the databases
-cd x86_64
-sh update_repo.sh
+#cd x86_64
+#sh update_repo.sh
 
 # Below command will backup everything inside the project folder
 git add --all .

@@ -2,7 +2,7 @@ pkgname=root-git
 _pkgname=root
 _destname1="/etc/skel/"
 pkgver=1
-pkgrel=03
+pkgrel=04
 pkgdesc="root configs "
 arch=('any')
 url="https://github.com/amanre/root"
@@ -19,7 +19,7 @@ package() {
 	cp -r  ${srcdir}/${_pkgname}${_destname1}.xscreensaver ${pkgdir}${_destname1}
 	cp -r  ${srcdir}/${_pkgname}${_destname1}.gtkrc-2.0 ${pkgdir}${_destname1}
 	cp -r  ${srcdir}/${_pkgname}${_destname1}.xinitrc ${pkgdir}${_destname1}
-	#cp -r  ${srcdir}/${_pkgname}${_destname1}.bashrc-latest ${pkgdir}${_destname1}
+	cp -r  ${srcdir}/${_pkgname}${_destname1}.bin ${pkgdir}${_destname1}
 	cp -r  ${srcdir}/${_pkgname}${_destname1}.xsession ${pkgdir}${_destname1}
 	cp -r  ${srcdir}/${_pkgname}${_destname1}.xsessionrc ${pkgdir}${_destname1}
 	cp -r  ${srcdir}/${_pkgname}${_destname1}.p10k.zsh ${pkgdir}${_destname1}
@@ -30,5 +30,5 @@ package() {
 	cp -r  ${srcdir}/${_pkgname}${_destname1}.conkyrc ${pkgdir}${_destname1}
 	cp -r  ${srcdir}/${_pkgname}${_destname1}.local ${pkgdir}${_destname1}
 	cp -r  ${srcdir}/${_pkgname}${_destname1}.fehbg ${pkgdir}${_destname1}
-
+	cp -r  ${srcdir}/${_pkgname}${_destname1}.face ${pkgdir}${_destname1}
 }
