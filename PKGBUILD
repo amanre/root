@@ -13,15 +13,16 @@ provides=("${pkgname}")
 options=(!strip !emptydirs)
 source=(${_pkgname}::"git+https://github.com/amanre/${_pkgname}.git")
 sha256sums=('SKIP')
-install='readme.install'
 package() {
 	install -dm755 ${pkgdir}${_destname1}
 	cp -r  ${srcdir}/${_pkgname}${_destname1}.zshrc ${pkgdir}${_destname1}
 	cp -r  ${srcdir}/${_pkgname}${_destname1}.xscreensaver ${pkgdir}${_destname1}
-	#cp -r  ${srcdir}/${_pkgname}${_destname1}.face ${pkgdir}${_destname1}
 	cp -r  ${srcdir}/${_pkgname}${_destname1}.gtkrc-2.0 ${pkgdir}${_destname1}
 	cp -r  ${srcdir}/${_pkgname}${_destname1}.xinitrc ${pkgdir}${_destname1}
+<<<<<<< HEAD
 	#cp -r  ${srcdir}/${_pkgname}${_destname1}.bashrc-latest ${pkgdir}${_destname1}
+=======
+>>>>>>> 4bbf439e88a91db9c7a2234729ef0430a3f2d44f
 	cp -r  ${srcdir}/${_pkgname}${_destname1}.xsession ${pkgdir}${_destname1}
 	cp -r  ${srcdir}/${_pkgname}${_destname1}.xsessionrc ${pkgdir}${_destname1}
 	cp -r  ${srcdir}/${_pkgname}${_destname1}.p10k.zsh ${pkgdir}${_destname1}
