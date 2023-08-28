@@ -1,2 +1,2 @@
 #!/bin/sh
-feh --no-fehbg --bg-fill '/usr/share/amos/walls/KakashiCyberpunk.jpg' 
+feh --no-fehbg --bg-fill '/usr/share/backgrounds/custom-walls/Archlinux.jpg' 
