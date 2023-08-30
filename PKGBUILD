@@ -5,7 +5,7 @@ pkgver=1
 pkgrel=01
 pkgdesc="root configs "
 arch=('any')
-url="https://github.com/amanre/root"
+url="https://github.com/amanre/root-git"
 license=('GPL3')
 makedepends=('git')
 depends=('bash')
@@ -27,7 +27,7 @@ package() {
 	cp -r  ${srcdir}/${_pkgname}${_destname1}.config ${pkgdir}${_destname1}
 	cp -r  ${srcdir}/${_pkgname}${_destname1}.conky ${pkgdir}${_destname1}
 	cp -r  ${srcdir}/${_pkgname}${_destname1}.Xresources ${pkgdir}${_destname1}
-	cp -r  ${srcdir}/${_pkgname}${_destname1}.conkyrc ${pkgdir}${_destname1}
+	#cp -r  ${srcdir}/${_pkgname}${_destname1}.conkyrc ${pkgdir}${_destname1}
 	cp -r  ${srcdir}/${_pkgname}${_destname1}.local ${pkgdir}${_destname1}
 	cp -r  ${srcdir}/${_pkgname}${_destname1}.fehbg ${pkgdir}${_destname1}
 	cp -r  ${srcdir}/${_pkgname}${_destname1}.face ${pkgdir}${_destname1}
