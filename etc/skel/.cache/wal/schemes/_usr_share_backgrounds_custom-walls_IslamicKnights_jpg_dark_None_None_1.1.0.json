@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/backgrounds/custom-walls/IslamicKnights.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#010A1A",
+        "foreground": "#b1b5e0",
+        "cursor": "#b1b5e0"
+    },
+    "colors": {
+        "color0": "#010A1A",
+        "color1": "#473671",
+        "color2": "#2C4570",
+        "color3": "#46477A",
+        "color4": "#3A529D",
+        "color5": "#524E8B",
+        "color6": "#6559A0",
+        "color7": "#b1b5e0",
+        "color8": "#7b7e9c",
+        "color9": "#473671",
+        "color10": "#2C4570",
+        "color11": "#46477A",
+        "color12": "#3A529D",
+        "color13": "#524E8B",
+        "color14": "#6559A0",
+        "color15": "#b1b5e0"
+    }
+}

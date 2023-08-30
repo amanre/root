@@ -2,10 +2,10 @@
 # Any customization should be done in ~/.gtkrc-2.0.mine instead.
 
 include "/home/amanre/.gtkrc-2.0.mine"
-gtk-theme-name="Darkaneon Purple"
-gtk-icon-theme-name="Tela-circle-dracula-dark"
+gtk-theme-name="oomox-spacefighter"
+gtk-icon-theme-name="oomox-wallhaven-3l2o7y_1920x1080"
 gtk-font-name="Noto Sans 11"
-gtk-cursor-theme-name="Catppuccin-Red-Cursors"
+gtk-cursor-theme-name="Bibata-Modern-Amber"
 gtk-cursor-theme-size=0
 gtk-toolbar-style=GTK_TOOLBAR_ICONS
 gtk-toolbar-icon-size=GTK_ICON_SIZE_LARGE_TOOLBAR

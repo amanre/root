@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/backgrounds/custom-walls/catppucin.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0f0f18",
+        "foreground": "#d9d3da",
+        "cursor": "#d9d3da"
+    },
+    "colors": {
+        "color0": "#0f0f18",
+        "color1": "#746F84",
+        "color2": "#8C798E",
+        "color3": "#998CA2",
+        "color4": "#A092A1",
+        "color5": "#EFB0A1",
+        "color6": "#F8D9AC",
+        "color7": "#d9d3da",
+        "color8": "#979398",
+        "color9": "#746F84",
+        "color10": "#8C798E",
+        "color11": "#998CA2",
+        "color12": "#A092A1",
+        "color13": "#EFB0A1",
+        "color14": "#F8D9AC",
+        "color15": "#d9d3da"
+    }
+}

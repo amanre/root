@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/backgrounds/custom-walls/wallhaven-mdzkpm.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#093250",
+        "foreground": "#ded2e5",
+        "cursor": "#ded2e5"
+    },
+    "colors": {
+        "color0": "#093250",
+        "color1": "#287594",
+        "color2": "#555E97",
+        "color3": "#4643BC",
+        "color4": "#AA5EB0",
+        "color5": "#459DC4",
+        "color6": "#A39ADD",
+        "color7": "#ded2e5",
+        "color8": "#9b93a0",
+        "color9": "#287594",
+        "color10": "#555E97",
+        "color11": "#4643BC",
+        "color12": "#AA5EB0",
+        "color13": "#459DC4",
+        "color14": "#A39ADD",
+        "color15": "#ded2e5"
+    }
+}

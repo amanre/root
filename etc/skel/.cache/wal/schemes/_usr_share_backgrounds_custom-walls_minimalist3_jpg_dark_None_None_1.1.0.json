@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/backgrounds/custom-walls/minimalist3.jpg",
+    "alpha": "80",
+    "special": {
+        "background": "#100919",
+        "foreground": "#c6abbe",
+        "cursor": "#c6abbe"
+    },
+    "colors": {
+        "color0": "#100919",
+        "color1": "#991A57",
+        "color2": "#A31B5B",
+        "color3": "#B62062",
+        "color4": "#DC206C",
+        "color5": "#E0206D",
+        "color6": "#9B4F77",
+        "color7": "#c6abbe",
+        "color8": "#8a7785",
+        "color9": "#991A57",
+        "color10": "#A31B5B",
+        "color11": "#B62062",
+        "color12": "#DC206C",
+        "color13": "#E0206D",
+        "color14": "#9B4F77",
+        "color15": "#c6abbe"
+    }
+}
