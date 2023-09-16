@@ -50,11 +50,11 @@
 # icon_text_spacing = 10
 # icon_norm_alpha = 100
 # icon_sel_alpha = 100
-icon_theme = edu-candy-beauty-tela
+icon_theme = Tela-circle
 # icon_theme_fallback = xtg
 # arrow_string = ▸
 # arrow_width = 15
- color_menu_bg = #000000 40
+ color_menu_bg = #000000 60
 color_menu_bg_to = #000000 60
  color_menu_border = #E70D47 8
  color_norm_bg = #E70D47 00
