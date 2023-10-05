@@ -1,12 +1,22 @@
 # DO NOT EDIT! This file will be overwritten by LXAppearance.
 # Any customization should be done in ~/.gtkrc-2.0.mine instead.
 
+<<<<<<< HEAD
 gtk-theme-name="Catppuccin-pink"
 gtk-icon-theme-name="Tokyonight-Light"
 gtk-font-name="Fira Sans,  10"
 gtk-cursor-theme-name="Catppuccin-Red-Cursors"
 gtk-cursor-theme-size=24
 gtk-toolbar-style=GTK_TOOLBAR_BOTH_HORIZ
+=======
+
+gtk-theme-name="Catppuccin-Macchiato-Standard-Yellow-dark"
+gtk-icon-theme-name="Tela-circle-black-dark"
+gtk-font-name="Noto Sans 11"
+gtk-cursor-theme-name="Catppuccin-Yellow-Cursors"
+gtk-cursor-theme-size=0
+gtk-toolbar-style=GTK_TOOLBAR_ICONS
+>>>>>>> 1531e76fa2911889d5ee36b5cba178cfbf1d6f44
 gtk-toolbar-icon-size=GTK_ICON_SIZE_LARGE_TOOLBAR
 gtk-button-images=1
 gtk-menu-images=1

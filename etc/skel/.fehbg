@@ -1,2 +1,6 @@
 #!/bin/sh
+<<<<<<< HEAD
 feh --no-fehbg --bg-fill '/usr/share/backgrounds/custom-walls/lake.jpg' 
+=======
+feh --no-fehbg --bg-fill '/usr/share/backgrounds/custom-walls/wallhaven-4ylogx.jpg' 
+>>>>>>> 1531e76fa2911889d5ee36b5cba178cfbf1d6f44
