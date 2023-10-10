@@ -477,8 +477,8 @@ alias xd="ls /usr/share/xsessions"
 #pfetch
 #clear && hfetch
 EDITOR=vim
-hyfetch
-#neofetch
+#hyfetch
+neofetch
 #hfetch
 #sfetch
 ### RANDOM COLOR SCRIPT ###
