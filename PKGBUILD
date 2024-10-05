@@ -30,5 +30,5 @@ package() {
 	#cp -r  ${srcdir}/${_pkgname}${_destname1}.conkyrc ${pkgdir}${_destname1}
 	cp -r  ${srcdir}/${_pkgname}${_destname1}.local ${pkgdir}${_destname1}
 	cp -r  ${srcdir}/${_pkgname}${_destname1}.fehbg ${pkgdir}${_destname1}
-	cp -r  ${srcdir}/${_pkgname}${_destname1}.face ${pkgdir}${_destname1}
+	#cp -r  ${srcdir}/${_pkgname}${_destname1}.face ${pkgdir}${_destname1}
 }
