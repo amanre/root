@@ -2,7 +2,7 @@ pkgname=root-git
 _pkgname=root
 _destname1="/etc/skel/"
 pkgver=24.10
-pkgrel=02
+pkgrel=03
 pkgdesc="root configs "
 arch=('any')
 url="https://github.com/amanre/root-git"
@@ -27,7 +27,7 @@ package() {
 	cp -r  ${srcdir}/${_pkgname}${_destname1}.config ${pkgdir}${_destname1}
 	cp -r  ${srcdir}/${_pkgname}${_destname1}.conky ${pkgdir}${_destname1}
 	cp -r  ${srcdir}/${_pkgname}${_destname1}.Xresources ${pkgdir}${_destname1}
-	#cp -r  ${srcdir}/${_pkgname}${_destname1}.conkyrc ${pkgdir}${_destname1}
+	cp -r  ${srcdir}/${_pkgname}${_destname1}.screenlayout ${pkgdir}${_destname1}
 	cp -r  ${srcdir}/${_pkgname}${_destname1}.local ${pkgdir}${_destname1}
 	cp -r  ${srcdir}/${_pkgname}${_destname1}.fehbg ${pkgdir}${_destname1}
 	#cp -r  ${srcdir}/${_pkgname}${_destname1}.face ${pkgdir}${_destname1}
