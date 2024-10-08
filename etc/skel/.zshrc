@@ -416,6 +416,9 @@ alias sysfailed="systemctl list-units --failed"
 alias ssn="sudo shutdown now"
 alias sr="sudo reboot"
 
+#Music
+alias music="ncmpcpp"
+
 #btrfs aliases
 alias btrfsfs="sudo btrfs filesystem df /"
 alias btrfsli="sudo btrfs su li / -t"
@@ -468,7 +471,7 @@ alias rmgitcache="rm -r ~/.cache/git"
 
 (cat ~/.cache/wal/sequences &)
  source ~/.cache/wal/colors-tty.sh
- 
+
 registrowallpaper=$(cat ~/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-desktop.xml | grep 'name="last-image"' | sed -n '9p' | awk '{print $4}' | sed 's/value="//' | sed 's/"//g') ; wallpaper=${registrowallpaper%??}
 
 #give the list of all installed desktops - xsessions desktops
@@ -484,7 +487,7 @@ neofetch
 ### RANDOM COLOR SCRIPT ###
 #colorscript random
 #colorscript -e illumina
-#nitch 
+#nitch
 #sysinfo
 #sysinfo-retro
 #ufetch
