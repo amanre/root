@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/amos/walls/wallhaven-ney2oo.jpg",
+    "alpha": "80",
+    "special": {
+        "background": "#09050d",
+        "foreground": "#c1c1ca",
+        "cursor": "#c1c1ca"
+    },
+    "colors": {
+        "color0": "#09050d",
+        "color1": "#28265A",
+        "color2": "#55215C",
+        "color3": "#454F68",
+        "color4": "#A83959",
+        "color5": "#543994",
+        "color6": "#AB529B",
+        "color7": "#c1c1ca",
+        "color8": "#87878d",
+        "color9": "#28265A",
+        "color10": "#55215C",
+        "color11": "#454F68",
+        "color12": "#A83959",
+        "color13": "#543994",
+        "color14": "#AB529B",
+        "color15": "#c1c1ca"
+    }
+}

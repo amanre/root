@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/amos/walls/wallhaven-l8k272.jpg",
+    "alpha": "80",
+    "special": {
+        "background": "#0E325E",
+        "foreground": "#e4ddd6",
+        "cursor": "#e4ddd6"
+    },
+    "colors": {
+        "color0": "#0E325E",
+        "color1": "#4F7498",
+        "color2": "#8F7383",
+        "color3": "#3D84B2",
+        "color4": "#6490AF",
+        "color5": "#8FAABB",
+        "color6": "#A6ABB3",
+        "color7": "#e4ddd6",
+        "color8": "#9f9a95",
+        "color9": "#4F7498",
+        "color10": "#8F7383",
+        "color11": "#3D84B2",
+        "color12": "#6490AF",
+        "color13": "#8FAABB",
+        "color14": "#A6ABB3",
+        "color15": "#e4ddd6"
+    }
+}

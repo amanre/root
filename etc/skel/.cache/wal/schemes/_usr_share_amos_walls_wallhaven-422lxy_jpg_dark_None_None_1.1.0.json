@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/amos/walls/wallhaven-422lxy.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#050C18",
+        "foreground": "#8ae3f5",
+        "cursor": "#8ae3f5"
+    },
+    "colors": {
+        "color0": "#050C18",
+        "color1": "#1050A5",
+        "color2": "#5766A3",
+        "color3": "#0435CF",
+        "color4": "#0C61E9",
+        "color5": "#19A1FB",
+        "color6": "#55B7D5",
+        "color7": "#8ae3f5",
+        "color8": "#609eab",
+        "color9": "#1050A5",
+        "color10": "#5766A3",
+        "color11": "#0435CF",
+        "color12": "#0C61E9",
+        "color13": "#19A1FB",
+        "color14": "#55B7D5",
+        "color15": "#8ae3f5"
+    }
+}

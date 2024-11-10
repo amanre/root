@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/amos/walls/windows.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0b0332",
+        "foreground": "#a6a1c8",
+        "cursor": "#a6a1c8"
+    },
+    "colors": {
+        "color0": "#0b0332",
+        "color1": "#980065",
+        "color2": "#B10068",
+        "color3": "#C5006A",
+        "color4": "#0E3887",
+        "color5": "#0D4898",
+        "color6": "#0B5CAB",
+        "color7": "#a6a1c8",
+        "color8": "#74708c",
+        "color9": "#980065",
+        "color10": "#B10068",
+        "color11": "#C5006A",
+        "color12": "#0E3887",
+        "color13": "#0D4898",
+        "color14": "#0B5CAB",
+        "color15": "#a6a1c8"
+    }
+}

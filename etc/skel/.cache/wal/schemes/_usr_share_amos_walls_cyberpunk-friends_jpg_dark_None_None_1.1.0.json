@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/amos/walls/cyberpunk-friends.jpg",
+    "alpha": "80",
+    "special": {
+        "background": "#0C0B1D",
+        "foreground": "#cfa5dc",
+        "cursor": "#cfa5dc"
+    },
+    "colors": {
+        "color0": "#0C0B1D",
+        "color1": "#304C6B",
+        "color2": "#514363",
+        "color3": "#362A93",
+        "color4": "#553BBC",
+        "color5": "#35658F",
+        "color6": "#747694",
+        "color7": "#cfa5dc",
+        "color8": "#90739a",
+        "color9": "#304C6B",
+        "color10": "#514363",
+        "color11": "#362A93",
+        "color12": "#553BBC",
+        "color13": "#35658F",
+        "color14": "#747694",
+        "color15": "#cfa5dc"
+    }
+}

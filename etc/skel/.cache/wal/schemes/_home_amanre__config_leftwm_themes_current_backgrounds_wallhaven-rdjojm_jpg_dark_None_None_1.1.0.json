@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/amanre/.config/leftwm/themes/current/backgrounds/wallhaven-rdjojm.jpg",
+    "alpha": "80",
+    "special": {
+        "background": "#0d0909",
+        "foreground": "#e6e5e7",
+        "cursor": "#e6e5e7"
+    },
+    "colors": {
+        "color0": "#0d0909",
+        "color1": "#AFB2B6",
+        "color2": "#D3A6A8",
+        "color3": "#B8BDC2",
+        "color4": "#BCC3C7",
+        "color5": "#A4D1D2",
+        "color6": "#CDD0D4",
+        "color7": "#e6e5e7",
+        "color8": "#a1a0a1",
+        "color9": "#AFB2B6",
+        "color10": "#D3A6A8",
+        "color11": "#B8BDC2",
+        "color12": "#BCC3C7",
+        "color13": "#A4D1D2",
+        "color14": "#CDD0D4",
+        "color15": "#e6e5e7"
+    }
+}

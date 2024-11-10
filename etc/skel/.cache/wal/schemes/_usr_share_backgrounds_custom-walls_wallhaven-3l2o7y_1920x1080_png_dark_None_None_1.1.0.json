@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/backgrounds/custom-walls/wallhaven-3l2o7y_1920x1080.png",
+    "alpha": "80",
+    "special": {
+        "background": "#170d0e",
+        "foreground": "#c3c4c5",
+        "cursor": "#c3c4c5"
+    },
+    "colors": {
+        "color0": "#170d0e",
+        "color1": "#A15551",
+        "color2": "#CD695E",
+        "color3": "#BE847B",
+        "color4": "#6C7C83",
+        "color5": "#77888E",
+        "color6": "#77BFD2",
+        "color7": "#c3c4c5",
+        "color8": "#888989",
+        "color9": "#A15551",
+        "color10": "#CD695E",
+        "color11": "#BE847B",
+        "color12": "#6C7C83",
+        "color13": "#77888E",
+        "color14": "#77BFD2",
+        "color15": "#c3c4c5"
+    }
+}

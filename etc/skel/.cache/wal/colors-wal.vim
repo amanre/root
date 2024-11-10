@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/usr/share/backgrounds/custom-walls/wallhaven-3l2o7y_1920x1080.png"
+let background = "#170d0e"
+let foreground = "#c3c4c5"
+let cursor     = "#c3c4c5"
+
+" Colors
+let color0  = "#170d0e"
+let color1  = "#A15551"
+let color2  = "#CD695E"
+let color3  = "#BE847B"
+let color4  = "#6C7C83"
+let color5  = "#77888E"
+let color6  = "#77BFD2"
+let color7  = "#c3c4c5"
+let color8  = "#888989"
+let color9  = "#A15551"
+let color10 = "#CD695E"
+let color11 = "#BE847B"
+let color12 = "#6C7C83"
+let color13 = "#77888E"
+let color14 = "#77BFD2"
+let color15 = "#c3c4c5"
