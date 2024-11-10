@@ -1,8 +1,8 @@
 pkgname=root-git
 _pkgname=root
 _destname1="/etc/skel/"
-pkgver=24.11
-pkgrel=05
+pkgver=24.12
+pkgrel=01
 pkgdesc="root configs "
 arch=('any')
 url="https://github.com/amanre/root-git"
