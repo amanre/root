@@ -1,8 +1,8 @@
 # XScreenSaver Preferences File
-# Written by xscreensaver-settings 6.06 for amanre on Thu Aug 24 20:30:49 2023.
+# Written by xscreensaver-settings 6.09 for amanre on Tue Nov 19 06:01:47 2024.
 # https://www.jwz.org/xscreensaver/
 
-timeout:	0:10:00
+timeout:	0:30:00
 cycle:		0:00:00
 lock:		False
 lockTimeout:	0:00:00
@@ -37,7 +37,7 @@ textFile:
 textProgram:	fortune
 textURL:	https://en.wikipedia.org/w/index.php?title=Special:NewPages&feed=rss
 dialogTheme:	default
-settingsGeom:	299,103 1366,103
+settingsGeom:	2108,69 1326,103
 
 programs:								      \
 				maze --root				    \n\
@@ -262,7 +262,7 @@ programs:								      \
   GL: 				hexstrut --root				    \n\
   GL: 				hydrostat --root			    \n\
   GL: 				raverhoop --root			    \n\
-  GL: 				splodesic --root --speed 1		    \n\
+  GL: 				splodesic --root --delay 0 --speed 2.581    \n\
   GL: 				unicrud --root				    \n\
   GL: 				esper --root				    \n\
   GL: 				vigilance --root			    \n\
@@ -289,6 +289,12 @@ programs:								      \
   GL: 				nakagin --root				    \n\
   GL: 				squirtorus --root			    \n\
   GL: 				hextrail --root				    \n\
+  GL: 				cubocteversion --root			    \n\
+				droste --root				    \n\
+  GL: 				papercube --root			    \n\
+  GL: 				skulloop --root				    \n\
+  GL: 				highvoltage --root			    \n\
+  GL: 				kallisti --root				    \n\
 
 
 pointerHysteresis:  10
