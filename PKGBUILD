@@ -1,7 +1,7 @@
 pkgname=root-git
 _pkgname=root
 _destname1="/etc/skel/"
-pkgver=25.01
+pkgver=25.04
 pkgrel=01
 pkgdesc="root configs "
 arch=('any')
