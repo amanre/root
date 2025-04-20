@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/amos/walls/wallhaven-5wmvy8.jpg",
+    "alpha": "80",
+    "special": {
+        "background": "#0B0E0E",
+        "foreground": "#cbd1da",
+        "cursor": "#cbd1da"
+    },
+    "colors": {
+        "color0": "#0B0E0E",
+        "color1": "#647689",
+        "color2": "#7B8081",
+        "color3": "#758999",
+        "color4": "#7FB2C1",
+        "color5": "#979EA6",
+        "color6": "#C4C4BC",
+        "color7": "#cbd1da",
+        "color8": "#8e9298",
+        "color9": "#647689",
+        "color10": "#7B8081",
+        "color11": "#758999",
+        "color12": "#7FB2C1",
+        "color13": "#979EA6",
+        "color14": "#C4C4BC",
+        "color15": "#cbd1da"
+    }
+}

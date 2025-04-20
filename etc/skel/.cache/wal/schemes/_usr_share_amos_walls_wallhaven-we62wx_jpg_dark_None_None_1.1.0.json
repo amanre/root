@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/amos/walls/wallhaven-we62wx.jpg",
+    "alpha": "80",
+    "special": {
+        "background": "#130c14",
+        "foreground": "#b4bac3",
+        "cursor": "#b4bac3"
+    },
+    "colors": {
+        "color0": "#130c14",
+        "color1": "#535069",
+        "color2": "#9E4E5E",
+        "color3": "#A84849",
+        "color4": "#70379C",
+        "color5": "#6C6A8E",
+        "color6": "#A16C91",
+        "color7": "#b4bac3",
+        "color8": "#7d8288",
+        "color9": "#535069",
+        "color10": "#9E4E5E",
+        "color11": "#A84849",
+        "color12": "#70379C",
+        "color13": "#6C6A8E",
+        "color14": "#A16C91",
+        "color15": "#b4bac3"
+    }
+}

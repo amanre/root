@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/amos/walls/KakashiCyberpunk2.jpg",
+    "alpha": "80",
+    "special": {
+        "background": "#050D1A",
+        "foreground": "#a8c3d8",
+        "cursor": "#a8c3d8"
+    },
+    "colors": {
+        "color0": "#050D1A",
+        "color1": "#345169",
+        "color2": "#224D73",
+        "color3": "#545064",
+        "color4": "#2F6396",
+        "color5": "#516E92",
+        "color6": "#996B80",
+        "color7": "#a8c3d8",
+        "color8": "#758897",
+        "color9": "#345169",
+        "color10": "#224D73",
+        "color11": "#545064",
+        "color12": "#2F6396",
+        "color13": "#516E92",
+        "color14": "#996B80",
+        "color15": "#a8c3d8"
+    }
+}

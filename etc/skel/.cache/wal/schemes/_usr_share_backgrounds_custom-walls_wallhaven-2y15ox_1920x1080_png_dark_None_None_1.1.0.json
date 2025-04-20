@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/backgrounds/custom-walls/wallhaven-2y15ox_1920x1080.png",
+    "alpha": "80",
+    "special": {
+        "background": "#0a0f1e",
+        "foreground": "#e99dc3",
+        "cursor": "#e99dc3"
+    },
+    "colors": {
+        "color0": "#0a0f1e",
+        "color1": "#B0EC28",
+        "color2": "#154B8B",
+        "color3": "#2358A1",
+        "color4": "#2562BB",
+        "color5": "#6E77A0",
+        "color6": "#D94099",
+        "color7": "#e99dc3",
+        "color8": "#a36d88",
+        "color9": "#B0EC28",
+        "color10": "#154B8B",
+        "color11": "#2358A1",
+        "color12": "#2562BB",
+        "color13": "#6E77A0",
+        "color14": "#D94099",
+        "color15": "#e99dc3"
+    }
+}

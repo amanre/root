@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/amos/walls/wallhaven-vmxlo5.jpg",
+    "alpha": "80",
+    "special": {
+        "background": "#0D080F",
+        "foreground": "#acc5d8",
+        "cursor": "#acc5d8"
+    },
+    "colors": {
+        "color0": "#0D080F",
+        "color1": "#355C9B",
+        "color2": "#3A62A2",
+        "color3": "#4B6EA5",
+        "color4": "#4F7EC0",
+        "color5": "#887A87",
+        "color6": "#5F8CBC",
+        "color7": "#acc5d8",
+        "color8": "#788997",
+        "color9": "#355C9B",
+        "color10": "#3A62A2",
+        "color11": "#4B6EA5",
+        "color12": "#4F7EC0",
+        "color13": "#887A87",
+        "color14": "#5F8CBC",
+        "color15": "#acc5d8"
+    }
+}

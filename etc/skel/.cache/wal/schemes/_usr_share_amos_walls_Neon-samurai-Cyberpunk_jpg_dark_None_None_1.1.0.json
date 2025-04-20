@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/amos/walls/Neon-samurai-Cyberpunk.jpg",
+    "alpha": "80",
+    "special": {
+        "background": "#180a19",
+        "foreground": "#eec4f2",
+        "cursor": "#eec4f2"
+    },
+    "colors": {
+        "color0": "#180a19",
+        "color1": "#9630AC",
+        "color2": "#B63CBF",
+        "color3": "#A452D8",
+        "color4": "#E565F0",
+        "color5": "#45CDBE",
+        "color6": "#A8BFD9",
+        "color7": "#eec4f2",
+        "color8": "#a689a9",
+        "color9": "#9630AC",
+        "color10": "#B63CBF",
+        "color11": "#A452D8",
+        "color12": "#E565F0",
+        "color13": "#45CDBE",
+        "color14": "#A8BFD9",
+        "color15": "#eec4f2"
+    }
+}

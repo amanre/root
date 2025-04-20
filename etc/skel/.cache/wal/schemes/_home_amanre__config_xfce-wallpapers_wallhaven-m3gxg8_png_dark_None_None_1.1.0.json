@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/amanre/.config/xfce-wallpapers/wallhaven-m3gxg8.png",
+    "alpha": "100",
+    "special": {
+        "background": "#151822",
+        "foreground": "#caccde",
+        "cursor": "#caccde"
+    },
+    "colors": {
+        "color0": "#151822",
+        "color1": "#89768E",
+        "color2": "#7ABCDB",
+        "color3": "#ED8896",
+        "color4": "#F0A887",
+        "color5": "#A5D895",
+        "color6": "#EBD39E",
+        "color7": "#caccde",
+        "color8": "#8d8e9b",
+        "color9": "#89768E",
+        "color10": "#7ABCDB",
+        "color11": "#ED8896",
+        "color12": "#F0A887",
+        "color13": "#A5D895",
+        "color14": "#EBD39E",
+        "color15": "#caccde"
+    }
+}

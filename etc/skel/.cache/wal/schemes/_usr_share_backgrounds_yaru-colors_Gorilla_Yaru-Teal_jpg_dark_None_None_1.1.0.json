@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/backgrounds/yaru-colors/Gorilla_Yaru-Teal.jpg",
+    "alpha": "80",
+    "special": {
+        "background": "#01121B",
+        "foreground": "#cebac1",
+        "cursor": "#cebac1"
+    },
+    "colors": {
+        "color0": "#01121B",
+        "color1": "#2F8577",
+        "color2": "#533A8D",
+        "color3": "#6B63A7",
+        "color4": "#159C82",
+        "color5": "#1F9A85",
+        "color6": "#5CA4A4",
+        "color7": "#cebac1",
+        "color8": "#908287",
+        "color9": "#2F8577",
+        "color10": "#533A8D",
+        "color11": "#6B63A7",
+        "color12": "#159C82",
+        "color13": "#1F9A85",
+        "color14": "#5CA4A4",
+        "color15": "#cebac1"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/amos/walls/wallhaven-p9we73_1920x1080.jpg",
+    "alpha": "80",
+    "special": {
+        "background": "#080817",
+        "foreground": "#a6c1d2",
+        "cursor": "#a6c1d2"
+    },
+    "colors": {
+        "color0": "#080817",
+        "color1": "#184773",
+        "color2": "#B44C5B",
+        "color3": "#BC8831",
+        "color4": "#275E92",
+        "color5": "#69778D",
+        "color6": "#C66E8C",
+        "color7": "#a6c1d2",
+        "color8": "#748793",
+        "color9": "#184773",
+        "color10": "#B44C5B",
+        "color11": "#BC8831",
+        "color12": "#275E92",
+        "color13": "#69778D",
+        "color14": "#C66E8C",
+        "color15": "#a6c1d2"
+    }
+}

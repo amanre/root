@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/backgrounds/custom-walls/wallhaven-rdgw1m.jpg",
+    "alpha": "80",
+    "special": {
+        "background": "#02093E",
+        "foreground": "#9bd2f2",
+        "cursor": "#9bd2f2"
+    },
+    "colors": {
+        "color0": "#02093E",
+        "color1": "#2D57DA",
+        "color2": "#635AE0",
+        "color3": "#942DB2",
+        "color4": "#A05ADD",
+        "color5": "#BD46E1",
+        "color6": "#659AEE",
+        "color7": "#9bd2f2",
+        "color8": "#6c93a9",
+        "color9": "#2D57DA",
+        "color10": "#635AE0",
+        "color11": "#942DB2",
+        "color12": "#A05ADD",
+        "color13": "#BD46E1",
+        "color14": "#659AEE",
+        "color15": "#9bd2f2"
+    }
+}

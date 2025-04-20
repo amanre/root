@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/backgrounds/custom-walls/KakashiCyberpunk.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0B121C",
+        "foreground": "#adbed1",
+        "cursor": "#adbed1"
+    },
+    "colors": {
+        "color0": "#0B121C",
+        "color1": "#334C6B",
+        "color2": "#4C576D",
+        "color3": "#D5756E",
+        "color4": "#534096",
+        "color5": "#5A6792",
+        "color6": "#B05CD9",
+        "color7": "#adbed1",
+        "color8": "#798592",
+        "color9": "#334C6B",
+        "color10": "#4C576D",
+        "color11": "#D5756E",
+        "color12": "#534096",
+        "color13": "#5A6792",
+        "color14": "#B05CD9",
+        "color15": "#adbed1"
+    }
+}

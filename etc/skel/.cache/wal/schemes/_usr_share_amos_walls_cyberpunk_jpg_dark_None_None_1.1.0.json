@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/amos/walls/cyberpunk.jpg",
+    "alpha": "80",
+    "special": {
+        "background": "#15091e",
+        "foreground": "#79bed9",
+        "cursor": "#79bed9"
+    },
+    "colors": {
+        "color0": "#15091e",
+        "color1": "#F21866",
+        "color2": "#0833A0",
+        "color3": "#0961AF",
+        "color4": "#093DC4",
+        "color5": "#0863DA",
+        "color6": "#D31488",
+        "color7": "#79bed9",
+        "color8": "#548597",
+        "color9": "#F21866",
+        "color10": "#0833A0",
+        "color11": "#0961AF",
+        "color12": "#093DC4",
+        "color13": "#0863DA",
+        "color14": "#D31488",
+        "color15": "#79bed9"
+    }
+}

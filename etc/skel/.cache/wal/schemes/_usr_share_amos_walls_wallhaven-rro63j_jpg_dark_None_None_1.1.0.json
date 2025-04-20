@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/amos/walls/wallhaven-rro63j.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#000000",
+        "foreground": "#d3a9c7",
+        "cursor": "#d3a9c7"
+    },
+    "colors": {
+        "color0": "#000000",
+        "color1": "#1C3890",
+        "color2": "#155AAE",
+        "color3": "#5B5FB1",
+        "color4": "#0F6FC7",
+        "color5": "#2F68CA",
+        "color6": "#506ACC",
+        "color7": "#d3a9c7",
+        "color8": "#93768b",
+        "color9": "#1C3890",
+        "color10": "#155AAE",
+        "color11": "#5B5FB1",
+        "color12": "#0F6FC7",
+        "color13": "#2F68CA",
+        "color14": "#506ACC",
+        "color15": "#d3a9c7"
+    }
+}

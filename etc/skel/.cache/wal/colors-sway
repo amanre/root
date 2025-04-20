@@ -1,0 +1,21 @@
+set $wallpaper /usr/share/backgrounds/custom-walls/wallhaven-3l2o7y_1920x1080.png
+
+set $background #170d0e
+set $foreground #c3c4c5
+
+set $color0 #170d0e
+set $color1 #A15551
+set $color2 #CD695E
+set $color3 #BE847B
+set $color4 #6C7C83
+set $color5 #77888E
+set $color6 #77BFD2
+set $color7 #c3c4c5
+set $color8 #888989
+set $color9 #A15551
+set $color10 #CD695E
+set $color11 #BE847B
+set $color12 #6C7C83
+set $color13 #77888E
+set $color14 #77BFD2
+set $color15 #c3c4c5

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/amos/walls/wallhaven-yxe85x_1920x1080.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0C050C",
+        "foreground": "#95d0df",
+        "cursor": "#95d0df"
+    },
+    "colors": {
+        "color0": "#0C050C",
+        "color1": "#5B285D",
+        "color2": "#4B3370",
+        "color3": "#A72D6E",
+        "color4": "#573B85",
+        "color5": "#664E8E",
+        "color6": "#C64B9C",
+        "color7": "#95d0df",
+        "color8": "#68919c",
+        "color9": "#5B285D",
+        "color10": "#4B3370",
+        "color11": "#A72D6E",
+        "color12": "#573B85",
+        "color13": "#664E8E",
+        "color14": "#C64B9C",
+        "color15": "#95d0df"
+    }
+}

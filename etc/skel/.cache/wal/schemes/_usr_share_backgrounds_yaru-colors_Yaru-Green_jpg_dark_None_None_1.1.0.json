@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/backgrounds/yaru-colors/Yaru-Green.jpg",
+    "alpha": "80",
+    "special": {
+        "background": "#0f451c",
+        "foreground": "#99cda4",
+        "cursor": "#99cda4"
+    },
+    "colors": {
+        "color0": "#0f451c",
+        "color1": "#39AA4E",
+        "color2": "#39AC4F",
+        "color3": "#34A054",
+        "color4": "#39A450",
+        "color5": "#37A850",
+        "color6": "#39AA50",
+        "color7": "#99cda4",
+        "color8": "#6b8f72",
+        "color9": "#39AA4E",
+        "color10": "#39AC4F",
+        "color11": "#34A054",
+        "color12": "#39A450",
+        "color13": "#37A850",
+        "color14": "#39AA50",
+        "color15": "#99cda4"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/amos/walls/wallhaven-r7pjym.jpg",
+    "alpha": "80",
+    "special": {
+        "background": "#08010B",
+        "foreground": "#ecc8e5",
+        "cursor": "#ecc8e5"
+    },
+    "colors": {
+        "color0": "#08010B",
+        "color1": "#434894",
+        "color2": "#A85C9D",
+        "color3": "#B766B3",
+        "color4": "#6492C2",
+        "color5": "#BA93BE",
+        "color6": "#E696D1",
+        "color7": "#ecc8e5",
+        "color8": "#a58ca0",
+        "color9": "#434894",
+        "color10": "#A85C9D",
+        "color11": "#B766B3",
+        "color12": "#6492C2",
+        "color13": "#BA93BE",
+        "color14": "#E696D1",
+        "color15": "#ecc8e5"
+    }
+}

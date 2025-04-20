@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/amanre/.config/leftwm/themes/current/backgrounds/wallhaven-9mr8r1.jpg",
+    "alpha": "80",
+    "special": {
+        "background": "#141014",
+        "foreground": "#d0dde7",
+        "cursor": "#d0dde7"
+    },
+    "colors": {
+        "color0": "#141014",
+        "color1": "#937E83",
+        "color2": "#778995",
+        "color3": "#5CB8C4",
+        "color4": "#999EA7",
+        "color5": "#CFADAE",
+        "color6": "#A8B9C8",
+        "color7": "#d0dde7",
+        "color8": "#919aa1",
+        "color9": "#937E83",
+        "color10": "#778995",
+        "color11": "#5CB8C4",
+        "color12": "#999EA7",
+        "color13": "#CFADAE",
+        "color14": "#A8B9C8",
+        "color15": "#d0dde7"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/backgrounds/custom-walls/tokyo-night29.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#101017",
+        "foreground": "#e6b2c2",
+        "cursor": "#e6b2c2"
+    },
+    "colors": {
+        "color0": "#101017",
+        "color1": "#4E5174",
+        "color2": "#9FA06C",
+        "color3": "#DBAB6B",
+        "color4": "#E0B068",
+        "color5": "#9FCE6A",
+        "color6": "#7A7280",
+        "color7": "#e6b2c2",
+        "color8": "#a17c87",
+        "color9": "#4E5174",
+        "color10": "#9FA06C",
+        "color11": "#DBAB6B",
+        "color12": "#E0B068",
+        "color13": "#9FCE6A",
+        "color14": "#7A7280",
+        "color15": "#e6b2c2"
+    }
+}

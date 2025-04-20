@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/amos/walls/wallhaven-d5mmel.jpg",
+    "alpha": "80",
+    "special": {
+        "background": "#2a121a",
+        "foreground": "#f6eae1",
+        "cursor": "#f6eae1"
+    },
+    "colors": {
+        "color0": "#2a121a",
+        "color1": "#DB6D6D",
+        "color2": "#E17170",
+        "color3": "#BC807E",
+        "color4": "#D2A49F",
+        "color5": "#F6D4CA",
+        "color6": "#F6D4CA",
+        "color7": "#f6eae1",
+        "color8": "#aca39d",
+        "color9": "#DB6D6D",
+        "color10": "#E17170",
+        "color11": "#BC807E",
+        "color12": "#D2A49F",
+        "color13": "#F6D4CA",
+        "color14": "#F6D4CA",
+        "color15": "#f6eae1"
+    }
+}

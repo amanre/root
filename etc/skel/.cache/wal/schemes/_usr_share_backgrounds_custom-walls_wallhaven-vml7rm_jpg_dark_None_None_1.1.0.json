@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/backgrounds/custom-walls/wallhaven-vml7rm.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#020A0D",
+        "foreground": "#c3d7d8",
+        "cursor": "#c3d7d8"
+    },
+    "colors": {
+        "color0": "#020A0D",
+        "color1": "#255C63",
+        "color2": "#4F666B",
+        "color3": "#936658",
+        "color4": "#417A86",
+        "color5": "#659A9C",
+        "color6": "#46A7AF",
+        "color7": "#c3d7d8",
+        "color8": "#889697",
+        "color9": "#255C63",
+        "color10": "#4F666B",
+        "color11": "#936658",
+        "color12": "#417A86",
+        "color13": "#659A9C",
+        "color14": "#46A7AF",
+        "color15": "#c3d7d8"
+    }
+}

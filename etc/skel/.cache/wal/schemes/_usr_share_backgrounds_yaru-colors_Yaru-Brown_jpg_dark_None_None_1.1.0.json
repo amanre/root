@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/backgrounds/yaru-colors/Yaru-Brown.jpg",
+    "alpha": "80",
+    "special": {
+        "background": "#2f1209",
+        "foreground": "#c1a399",
+        "cursor": "#c1a399"
+    },
+    "colors": {
+        "color0": "#2f1209",
+        "color1": "#914F37",
+        "color2": "#904E38",
+        "color3": "#904F39",
+        "color4": "#904D3A",
+        "color5": "#925038",
+        "color6": "#92503A",
+        "color7": "#c1a399",
+        "color8": "#87726b",
+        "color9": "#914F37",
+        "color10": "#904E38",
+        "color11": "#904F39",
+        "color12": "#904D3A",
+        "color13": "#925038",
+        "color14": "#92503A",
+        "color15": "#c1a399"
+    }
+}
