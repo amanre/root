@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/backgrounds/walls/pinkfloyed.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0a0a0a",
+        "foreground": "#e3e3e4",
+        "cursor": "#e3e3e4"
+    },
+    "colors": {
+        "color0": "#0a0a0a",
+        "color1": "#F09828",
+        "color2": "#FBFA03",
+        "color3": "#8A4996",
+        "color4": "#1CBFE5",
+        "color5": "#9E9FA0",
+        "color6": "#CAC4B1",
+        "color7": "#e3e3e4",
+        "color8": "#9e9e9f",
+        "color9": "#F09828",
+        "color10": "#FBFA03",
+        "color11": "#8A4996",
+        "color12": "#1CBFE5",
+        "color13": "#9E9FA0",
+        "color14": "#CAC4B1",
+        "color15": "#e3e3e4"
+    }
+}

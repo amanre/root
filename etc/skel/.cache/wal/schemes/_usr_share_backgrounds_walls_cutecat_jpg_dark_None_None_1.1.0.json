@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/backgrounds/walls/cutecat.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0b0401",
+        "foreground": "#b4b8c0",
+        "cursor": "#b4b8c0"
+    },
+    "colors": {
+        "color0": "#0b0401",
+        "color1": "#765C48",
+        "color2": "#915F35",
+        "color3": "#8D6D52",
+        "color4": "#9D7658",
+        "color5": "#AB8A70",
+        "color6": "#C59B79",
+        "color7": "#b4b8c0",
+        "color8": "#7d8086",
+        "color9": "#765C48",
+        "color10": "#915F35",
+        "color11": "#8D6D52",
+        "color12": "#9D7658",
+        "color13": "#AB8A70",
+        "color14": "#C59B79",
+        "color15": "#b4b8c0"
+    }
+}

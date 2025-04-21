@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/backgrounds/walls/wall-09.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#02050F",
+        "foreground": "#efc2e1",
+        "cursor": "#efc2e1"
+    },
+    "colors": {
+        "color0": "#02050F",
+        "color1": "#971F72",
+        "color2": "#0B6B93",
+        "color3": "#635192",
+        "color4": "#C44DA5",
+        "color5": "#E858B3",
+        "color6": "#2EABCA",
+        "color7": "#efc2e1",
+        "color8": "#a7879d",
+        "color9": "#971F72",
+        "color10": "#0B6B93",
+        "color11": "#635192",
+        "color12": "#C44DA5",
+        "color13": "#E858B3",
+        "color14": "#2EABCA",
+        "color15": "#efc2e1"
+    }
+}

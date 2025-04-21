@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/backgrounds/walls/wallhaven-yxdrex.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0f0e0f",
+        "foreground": "#cd9fc0",
+        "cursor": "#cd9fc0"
+    },
+    "colors": {
+        "color0": "#0f0e0f",
+        "color1": "#5A5D63",
+        "color2": "#BE4647",
+        "color3": "#9E5960",
+        "color4": "#618B78",
+        "color5": "#AC8C6E",
+        "color6": "#47648F",
+        "color7": "#cd9fc0",
+        "color8": "#8f6f86",
+        "color9": "#5A5D63",
+        "color10": "#BE4647",
+        "color11": "#9E5960",
+        "color12": "#618B78",
+        "color13": "#AC8C6E",
+        "color14": "#47648F",
+        "color15": "#cd9fc0"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/backgrounds/walls/wallhaven-8586my.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#090C33",
+        "foreground": "#f0c2d1",
+        "cursor": "#f0c2d1"
+    },
+    "colors": {
+        "color0": "#090C33",
+        "color1": "#365CA1",
+        "color2": "#5361A8",
+        "color3": "#A0549C",
+        "color4": "#A061B3",
+        "color5": "#EB619D",
+        "color6": "#5B92CA",
+        "color7": "#f0c2d1",
+        "color8": "#a88792",
+        "color9": "#365CA1",
+        "color10": "#5361A8",
+        "color11": "#A0549C",
+        "color12": "#A061B3",
+        "color13": "#EB619D",
+        "color14": "#5B92CA",
+        "color15": "#f0c2d1"
+    }
+}

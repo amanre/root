@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/backgrounds/walls/les-paul.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0D0602",
+        "foreground": "#d8c9ad",
+        "cursor": "#d8c9ad"
+    },
+    "colors": {
+        "color0": "#0D0602",
+        "color1": "#6A5531",
+        "color2": "#756648",
+        "color3": "#8D6731",
+        "color4": "#8B764F",
+        "color5": "#7F8165",
+        "color6": "#A89566",
+        "color7": "#d8c9ad",
+        "color8": "#978c79",
+        "color9": "#6A5531",
+        "color10": "#756648",
+        "color11": "#8D6731",
+        "color12": "#8B764F",
+        "color13": "#7F8165",
+        "color14": "#A89566",
+        "color15": "#d8c9ad"
+    }
+}

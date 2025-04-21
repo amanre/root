@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/backgrounds/walls/spectre.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0c0a0c",
+        "foreground": "#c5cddd",
+        "cursor": "#c5cddd"
+    },
+    "colors": {
+        "color0": "#0c0a0c",
+        "color1": "#625E72",
+        "color2": "#C55053",
+        "color3": "#67728C",
+        "color4": "#92778A",
+        "color5": "#7987A4",
+        "color6": "#8D95B1",
+        "color7": "#c5cddd",
+        "color8": "#898f9a",
+        "color9": "#625E72",
+        "color10": "#C55053",
+        "color11": "#67728C",
+        "color12": "#92778A",
+        "color13": "#7987A4",
+        "color14": "#8D95B1",
+        "color15": "#c5cddd"
+    }
+}

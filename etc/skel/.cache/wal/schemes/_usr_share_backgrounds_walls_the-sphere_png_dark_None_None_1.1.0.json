@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/backgrounds/walls/the-sphere.png",
+    "alpha": "100",
+    "special": {
+        "background": "#25272c",
+        "foreground": "#edcebb",
+        "cursor": "#edcebb"
+    },
+    "colors": {
+        "color0": "#25272c",
+        "color1": "#1D6F8A",
+        "color2": "#5F7787",
+        "color3": "#8D7C83",
+        "color4": "#328D9F",
+        "color5": "#65959B",
+        "color6": "#9A9792",
+        "color7": "#edcebb",
+        "color8": "#a59082",
+        "color9": "#1D6F8A",
+        "color10": "#5F7787",
+        "color11": "#8D7C83",
+        "color12": "#328D9F",
+        "color13": "#65959B",
+        "color14": "#9A9792",
+        "color15": "#edcebb"
+    }
+}

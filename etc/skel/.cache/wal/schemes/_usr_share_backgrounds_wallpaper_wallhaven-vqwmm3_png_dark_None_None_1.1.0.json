@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/backgrounds/wallpaper/wallhaven-vqwmm3.png",
+    "alpha": "80",
+    "special": {
+        "background": "#070E15",
+        "foreground": "#e4e0d9",
+        "cursor": "#e4e0d9"
+    },
+    "colors": {
+        "color0": "#070E15",
+        "color1": "#556969",
+        "color2": "#78837D",
+        "color3": "#7F8880",
+        "color4": "#9FA194",
+        "color5": "#C3BEAE",
+        "color6": "#D4CEBE",
+        "color7": "#e4e0d9",
+        "color8": "#9f9c97",
+        "color9": "#556969",
+        "color10": "#78837D",
+        "color11": "#7F8880",
+        "color12": "#9FA194",
+        "color13": "#C3BEAE",
+        "color14": "#D4CEBE",
+        "color15": "#e4e0d9"
+    }
+}

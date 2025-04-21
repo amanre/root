@@ -1,7 +1,7 @@
 pkgname=root-git
 _pkgname=root
 _destname1="/etc/skel/"
-pkgver=25.04
+pkgver=25.05
 pkgrel=01
 pkgdesc="root configs "
 arch=('any')
@@ -30,5 +30,5 @@ package() {
 	cp -r  ${srcdir}/${_pkgname}${_destname1}.screenlayout ${pkgdir}${_destname1}
 	cp -r  ${srcdir}/${_pkgname}${_destname1}.local ${pkgdir}${_destname1}
 	cp -r  ${srcdir}/${_pkgname}${_destname1}.fehbg ${pkgdir}${_destname1}
-	#cp -r  ${srcdir}/${_pkgname}${_destname1}.face ${pkgdir}${_destname1}
+	cp -r  ${srcdir}/${_pkgname}${_destname1}.face ${pkgdir}${_destname1}
 }
