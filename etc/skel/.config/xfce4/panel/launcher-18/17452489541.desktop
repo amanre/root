@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Change Theme
+Comment=
+Exec=/usr/local/bin/theme-manager-xfce
+Icon=/usr/share/pixmaps/archlinux.png
+Path=/home/amanre/.config/xfce-themes
+Terminal=false
+StartupNotify=false
