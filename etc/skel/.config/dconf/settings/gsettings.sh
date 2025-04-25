@@ -3,4 +3,4 @@
 # dconf load / > file-full-dump after changing
 
 gsettings set org.blueberry use-symbolic-icons false
-gsettings set org.gnome.desktop.background picture-uri 'file:///usr/share/backgrounds/walls/wall-09.jpg'
+gsettings set org.gnome.desktop.background picture-uri 'file:///usr/share/backgrounds/walls/spectre.jpg'
